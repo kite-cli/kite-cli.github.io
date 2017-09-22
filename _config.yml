@@ -99,11 +99,6 @@ defaults:
 
 sidebars:
 - kite_sidebar
-- home_sidebar
-- mydoc_sidebar
-- product1_sidebar
-- product2_sidebar
-- other
 
 description: >-
   Kite is a CLI for scaffolding and managing devops modules.

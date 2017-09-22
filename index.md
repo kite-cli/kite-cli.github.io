@@ -4,7 +4,7 @@ keywords: kite devops getting started
 tags: [getting_started]
 sidebar: kite_sidebar
 permalink: index.html
-summary: These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of Kite cli.
+summary: These brief instructions will help you get started quickly with the Kite IaC DevOps generator.
 ---
 
 [![Build Status](https://travis-ci.org/helios-technologies/kite.svg?branch=master)](https://travis-ci.org/helios-technologies/kite)
